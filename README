@@ -1,0 +1,9 @@
+0)	The search engine is operative at www.saarch.tk
+
+1)	Initialize the search engine with "python saarch_init.py". 
+	This part starts the collect and index routine returning a folder with 
+	the ads, posting list and vocabulary
+
+2) 	Run the python web server with "python saarch.py". 
+
+		
